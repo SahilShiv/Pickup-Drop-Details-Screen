@@ -7,7 +7,7 @@ The project demonstrates a **real-world shipment booking experience** with live 
 
 ---
 
-## 👤 **Author**
+## 👤 **Developed By**
 
 **Name: Sahil Sanotsh Shivale**   
 
