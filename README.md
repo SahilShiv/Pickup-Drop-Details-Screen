@@ -158,3 +158,6 @@ This project is created for **educational & portfolio purposes only**.
 ### 🎯 **Short Repo Description**
 
 > **A high-fidelity UI/UX prototype for a hyperlocal logistics booking platform featuring multi-step flow, live validation, and dynamic pricing.**
+
+⭐ **Snap Shots**
+<img width="1876" height="1037" alt="image" src="https://github.com/user-attachments/assets/67b71600-e41c-485d-a3d5-ca086e56095a" />
